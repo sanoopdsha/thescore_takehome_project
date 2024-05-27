@@ -6,7 +6,9 @@ This project is a QA challenge submission for theScore, utilizing Appium 2.5.4, 
 
 ### Prerequisites
 
+
 - Java 12 
+
 - Maven
 - selenium
 - Android SDK
