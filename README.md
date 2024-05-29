@@ -22,7 +22,6 @@ This project is a QA challenge submission for theScore, utilizing Appium 2.5.4, 
    mvn clean install
    
 Configure the following desired capabilities in your Appium tests:
-json
 JSON CODE
 {
   "platformName": "Android",
